@@ -1,0 +1,27 @@
+main {
+    height: 100vh;
+}
+
+form {
+    gap: 20px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+form input {
+    outline: none;
+    padding: 5px 10px;
+}
+
+form button {
+    border: none;
+    color: white;
+    font-size: 18px;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 8px;
+    background: greenyellow;
+}

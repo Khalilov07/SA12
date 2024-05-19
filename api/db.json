@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "img": "https://peakvisor.com/photo/Issyk-Kul-Region.jpg",
+      "title": "Issyk-kul",
+      "descr": "Description"
+    },
+    {
+      "id": "2",
+      "img": "https://central-asia.guide/wp-content/uploads/2021/11/Son_Kul_horse_mirror.jpg",
+      "title": "Son-kul",
+      "descr": "Description"
+    },
+    {
+      "id": "3",
+      "img": "https://peakvisor.com/photo/Issyk-Kul-Region.jpg",
+      "title": "Issyk-kul",
+      "descr": "Description"
+    },
+    {
+      "id": "4",
+      "img": "https://central-asia.guide/wp-content/uploads/2021/11/Son_Kul_horse_mirror.jpg",
+      "title": "Son-kul",
+      "descr": "Description"
+    },
+    {
+      "id": "06dd",
+      "title": "SON-KYL",
+      "img": "https://itmc.travel/wp-content/uploads/2021/03/Song-Kul-Day-2-230.jpg",
+      "descr": "dawdawdawdaw"
+    },
+    {
+      "id": "2b7a",
+      "title": "dwakldawkn",
+      "img": "nldkwadaw",
+      "descr": "mmkdlawdaw"
+    },
+    {
+      "id": "cf12",
+      "title": "dwadwa",
+      "img": "dawdaw",
+      "descr": "dwadawdaw"
+    },
+    {
+      "id": "45ff",
+      "title": "HTML ",
+      "img": "dnaw",
+      "descr": "dawdnawa"
+    },
+    {
+      "id": "f5d3",
+      "title": "dawdaw",
+      "img": "dawdaw",
+      "descr": "dwadaw"
+    }
+  ]
+}
